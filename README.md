@@ -1,1 +1,1 @@
-# WuWireChess
+# WireChess
